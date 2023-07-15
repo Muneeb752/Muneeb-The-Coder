@@ -28,18 +28,22 @@ const abouts = [
 ];
 
 const skills = [
-  {
-    name: "HTML",
-    icon: images.html,
-  },
-  {
-    name: "CSS",
-    icon: images.css,
-  },
-  {
-    name: "JavaScript",
-    icon: images.javascript,
-  },
+  // {
+  //   name: "HTML",
+  //   icon: images.html,
+  // },
+  // {
+  //   name: "CSS",
+  //   icon: images.css,
+  // },
+  // {
+  //   name: "Bootstrap",
+  //   icon: images.bootstrap,
+  // },
+  // {
+  //   name: "JavaScript",
+  //   icon: images.javascript,
+  // },
   {
     name: "React.js",
     icon: images.react,
@@ -47,10 +51,6 @@ const skills = [
   {
     name: "Tailwind CSS",
     icon: images.tailwind,
-  },
-  {
-    name: "Bootstrap",
-    icon: images.bootstrap,
   },
   {
     name: "Node.js",
@@ -64,10 +64,10 @@ const skills = [
     name: "MongoDB",
     icon: images.mongodb,
   },
-  {
-    name: "Git",
-    icon: images.git,
-  },
+  // {
+  //   name: "Git",
+  //   icon: images.git,
+  // },
   {
     name: "GitHub",
     icon: images.github,
