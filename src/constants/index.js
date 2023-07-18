@@ -4,25 +4,19 @@ const abouts = [
   {
     title: "Web Developer",
     description:
-      "I am a web developer with 2 years of experience in web development. I have a passion for creating optimized, beautiful and functional websites for production and businesses",
+      "I have two years of experience as a web developer, specializing in web development. I am truly passionate about crafting websites that are not only visually appealing but also optimized and highly functional for businesses and production purposes",
     image: images.about01,
   },
   {
-    title: "Front End Developer",
+    title: "Front End Developer (React.js)",
     description:
-      "I'm a Front End Developer with a passion for creating stunning, well-desingned websites and converting your figma designs into code",
+      "As a Front-End Developer, I am deeply passionate about building exceptional single-page web applications (SPAs) that not only showcase stunning and well-designed interfaces but also excel in terms of optimization and functionality for production purposes",
     image: images.about02,
   },
   {
-    title: "React.js Developer",
+    title: "Full Stack Developer (MERN & Next.js)",
     description:
-      "I'm an inspired React.js developer available for creating single page applications (SPAs) full of optimizations for production",
-    image: images.about03,
-  },
-  {
-    title: "MERN Full Stack Developer",
-    description:
-      "I do have expertise in MongoDB, Express.js, React.js and Node.js for creating full stack and dynamic web applications",
+      "As a versatile full-stack developer skilled in MERN (MongoDB, Express.js, React.js, Node.js) and Next.js, I have a comprehensive understanding of both front-end and back-end development, with expertise in creating dynamic and full stack web application",
     image: images.about04,
   },
 ];
