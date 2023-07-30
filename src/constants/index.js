@@ -14,7 +14,7 @@ const abouts = [
     image: images.about02,
   },
   {
-    title: "Full Stack Developer (MERN & Next.js)",
+    title: "Full Stack Developer (MERN)",
     description:
       "As a versatile full-stack developer skilled in MERN (MongoDB, Express.js, React.js, Node.js) and Next.js, I have a comprehensive understanding of both front-end and back-end development, with expertise in creating dynamic and full stack web application",
     image: images.about04,
@@ -22,46 +22,42 @@ const abouts = [
 ];
 
 const skills = [
-  // {
-  //   name: "HTML",
-  //   icon: images.html,
-  // },
-  // {
-  //   name: "CSS",
-  //   icon: images.css,
-  // },
-  // {
-  //   name: "Bootstrap",
-  //   icon: images.bootstrap,
-  // },
-  // {
-  //   name: "JavaScript",
-  //   icon: images.javascript,
-  // },
   {
-    name: "React.js",
-    icon: images.react,
+    name: "HTML",
+    icon: images.html,
+  },
+  {
+    name: "CSS",
+    icon: images.css,
+  },
+  {
+    name: "Bootstrap",
+    icon: images.bootstrap,
+  },
+  {
+    name: "JavaScript",
+    icon: images.javascript,
   },
   {
     name: "Tailwind CSS",
     icon: images.tailwind,
   },
   {
+    name: "React.js",
+    icon: images.react,
+  },
+  {
     name: "Node.js",
     icon: images.node,
   },
   {
-    name: "Next.js",
-    icon: images.nextjs,
+    name: "Rest APIs",
+    icon: images.api,
   },
   {
     name: "MongoDB",
     icon: images.mongodb,
   },
-  // {
-  //   name: "Git",
-  //   icon: images.git,
-  // },
   {
     name: "GitHub",
     icon: images.github,

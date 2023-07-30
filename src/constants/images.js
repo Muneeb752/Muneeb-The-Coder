@@ -38,7 +38,7 @@ import portfolio_logo from "../assets/port-logo.png";
 import nextjs from "../assets/next-js-icon-seeklogo.com.svg";
 import mongodb from "../assets/mongodb.svg";
 import github from "../assets/github.png";
-
+import firebase from "../assets/firebase.png";
 //clients
 
 import testimonial1 from "../assets/testimonial1.jpg";
@@ -48,7 +48,7 @@ let images = {
   testimonial1,
   testimonial2,
   testimonial3,
-
+  firebase,
   github,
   bootstrap,
   nextjs,
